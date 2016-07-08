@@ -1,4 +1,4 @@
-FROM registry.eu-gb.bluemix.net/ibmnode:latest
+FROM registry.ng.bluemix.net/ibmnode:latest
 
 # Create app directory
 RUN mkdir -p /usr/src/app
